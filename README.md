@@ -1,6 +1,7 @@
 | Supported Targets | ESP32 |
 | ----------------- | ----- |
 
+Link GitHub: https://github.com/BungVuQuang/wsn_gateway
 # Giới thiệu chung
 Dự án này được viết nhằm mục đích tạo ra 1 gateway sử dụng công nghệ BLE để truyền nhận tin nhắn giữa các node
 Gateway sẽ được cấp nguồn điện và mạng
